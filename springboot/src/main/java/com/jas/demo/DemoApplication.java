@@ -4,11 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * 入口类
- *
- * @author Jas
- * @date 2018/02/18
- */
+ * @author xiangle.yu
+ * @create 2018-06-01 15:39
+ **/
 @SpringBootApplication(scanBasePackages = "com.jas")
 public class DemoApplication {
 

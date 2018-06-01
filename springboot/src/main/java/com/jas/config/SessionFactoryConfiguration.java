@@ -12,8 +12,8 @@ import javax.sql.DataSource;
 import java.io.IOException;
 
 /**
- * @author Jas
- * @create 2018-02-19 9:49
+ * @author xiangle.yu
+ * @create 2018-05-28 15:32
  **/
 @SpringBootConfiguration
 public class SessionFactoryConfiguration {

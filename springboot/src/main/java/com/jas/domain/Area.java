@@ -3,8 +3,8 @@ package com.jas.domain;
 import java.util.Date;
 
 /**
- * @author Jas
- * @create 2018-02-19 9:17
+ * @author xiangle.yu
+ * @create 2018-06-01 15:39
  **/
 public class Area {
     private Integer areaId;

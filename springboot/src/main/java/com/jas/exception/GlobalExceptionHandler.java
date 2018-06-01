@@ -8,8 +8,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author Jas
- * @create 2018-02-19 16:08
+ * @author xiangle.yu
+ * @create 2018-06-01 15:39
  **/
 @ControllerAdvice
 public class GlobalExceptionHandler {

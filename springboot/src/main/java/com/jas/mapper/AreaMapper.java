@@ -5,8 +5,8 @@ import com.jas.domain.Area;
 import java.util.List;
 
 /**
- * @author Jas
- * @create 2018-02-19 10:13
+ * @author xiangle.yu
+ * @create 2018-06-01 15:39
  **/
 public interface AreaMapper {
     /**

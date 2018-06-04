@@ -1,4 +1,4 @@
-package com.jas.demo;
+package com.jas.elephant;
 
 import com.jas.domain.Area;
 import com.jas.mapper.AreaMapper;

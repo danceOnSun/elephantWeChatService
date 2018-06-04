@@ -1,4 +1,4 @@
-package com.jas.demo;
+package com.jas.elephant;
 
 import com.jas.mapper.AreaMapper;
 import com.jas.service.AreaService;
@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class DemoApplicationTests {
+public class ElephantApplicationTests {
 
 	@Autowired
 	private AreaMapper areaMapper;

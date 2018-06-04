@@ -1,4 +1,4 @@
-package com.jas.demo;
+package com.jas.elephant;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,9 +8,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @create 2018-06-01 15:39
  **/
 @SpringBootApplication(scanBasePackages = "com.jas")
-public class DemoApplication {
+public class ElephantApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(ElephantApplication.class, args);
 	}
 }
